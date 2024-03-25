@@ -1,6 +1,8 @@
 # Scout llama
 
-![Project Logo](docs/logo.png)
+<div align="center">
+  <img src="docs/logo.png" alt="Scout llama logo" width="40%">
+</div>
 
 ## Description
 
