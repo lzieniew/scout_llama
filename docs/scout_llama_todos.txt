@@ -1,0 +1,7 @@
+TODOs for this project:
+  1. [ ] Figure out how to check how much context will some text take in llm
+  2. [ ] Test if the found method is legit, so if the ollama really sees the whole thing that is passed
+  2. [ ] Choose which model with what context I will use
+  3. [ ] implement splitting the text into chunks that will fit in some models context
+  4. [ ] run the question on all the chunks
+  5. [ ] represent results in some good way
